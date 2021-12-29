@@ -1,7 +1,56 @@
 # Movie Recommender System Using Cosine Similarity
 
+A Movie Recommender System based on content-based filtering using cosine similarity
+
+## Screenshot
 
 ### Movie Recommender System (Content-Based) [Code](https://github.com/anupam215769/Movie-Recommender-System-ML/blob/main/movie-recommender-system.ipynb) OR <a href="https://colab.research.google.com/github/anupam215769/Movie-Recommender-System-ML/blob/main/movie-recommender-system.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+![rec](https://i.imgur.com/qGAxNDi.png)
+
+## How To Run (Graphical Interface/In Web Browser)
+
+> Note - Install streamlit library before running the code
+
+```
+pip install streamlit
+```
+
+1. Download all the files and put them in a same folder
+
+2. Open app.py using any python compiler
+
+3. Run the app.py
+
+4. Then type `streamlit run app.py` in the terminal
+
+5. This project will open in your web browser (as shown in the screenshot above)
+
+
+## How To Run (In Jupyter Notebook)
+
+> Note - Install Jupyter Notebook
+
+```
+pip install jupyter-lab
+```
+
+1. Open Jupyter Notebook using CMD by typing `jupyter-lab`
+
+2. Now, locate the folder of this project
+
+3. Open `movie-recommender-system.ipynb` and run all the cells
+
+4. At the last line of the code, put movie name in the brackets `recommend('movie_name')`
+
+5. You will get the recommended movies for the given movie
+
+
+
+
+
+
+## Theory Behind The System
 
 Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. Recommender systems are utilized in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. 
 Recommender systems produce a list of recommendations in any of the two ways –
