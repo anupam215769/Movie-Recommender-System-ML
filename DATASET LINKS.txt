@@ -1,0 +1,7 @@
+https://www.kaggle.com/tmdb/tmdb-movie-metadata
+
+DOWNLOAD BOTH, AND PUT THEM IN SAME FOLDER AS THE APP.PY
+
+tmdb_5000_credits.csv
+
+tmdb_5000_movies.csv
