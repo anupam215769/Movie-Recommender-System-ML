@@ -16,15 +16,13 @@ A Movie Recommender System based on content-based filtering using K-Nearest Neig
 pip install streamlit
 ```
 
-1. Download all the files and put them in a same folder
+1. Clone the repo
 
-2. Open app.py using any python compiler
+2. Open terminal in the same directory as project folder
 
-3. Run the app.py
+3. Then type `streamlit run app.py` in the terminal
 
-4. Then type `streamlit run app.py` in the terminal
-
-5. This project will open in your web browser (as shown in the screenshot above)
+4. This project will open in your web browser (as shown in the screenshot above)
 
 
 ## How To Run (In Jupyter Notebook)
